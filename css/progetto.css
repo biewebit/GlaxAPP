@@ -1,0 +1,204 @@
+body {
+   font-family:'Alegreya' !important;
+   font-size: 0.8em !important;
+   height:100%;
+   width:100%;
+   margin:0px;
+   padding:0px;
+   overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
+}
+
+h1 {
+  font-family: 'Avenir' !important;
+  font-size: 27px !important;
+  font-weight: normal !important;
+  margin: 10px 0px 0px 0px !important;
+}
+
+
+[data-role=page] {
+	height: 100% !important; 
+	position:relative !important; 
+	top: auto !important; 
+	white-space: normal !important;
+}
+
+[data-role=header] {
+    position: absolute !important;
+    z-index: 3 !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 120px !important;
+    line-height: 44px !important;
+    background: #3C3C3B!important;
+    padding: 0 !important;
+    color: #eee !important;
+    font-size: 15px !important;
+    text-align: center !important;
+    border: none !important;
+}
+
+[data-role=controlgroup] {
+	word-spacing: 20px;
+	margin: -20px 0px 0px 0px !important;
+
+
+	 }
+
+[data-role=content] {
+  position: relative !important;
+  padding: 120px 0px 0px 0px !important;
+ }
+
+ #page1 [data-role=content] {
+background-image: url(../img/prima.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height: 100%;
+text-align: center !important;
+color:black !important;
+}
+
+.menu {
+	color: white !important;
+	text-align: center !important;
+	font-family: 'Avenir' !important;
+  font-weight: 100 !important; 
+	text-decoration: none !important;
+	text-shadow: none !important;
+}
+
+#giallo {
+  color: #FCEA0F !important;
+  text-decoration: underline !important;
+}
+
+[data-role=footer] {
+	bottom:0; 
+	position:fixed !important; 
+	top: auto !important; 
+	width:100%;
+}
+
+#abus {
+  width: 100%;
+}
+
+
+
+#panel1 {
+  display: none;
+}
+
+#panel2 {
+  display: none;
+}
+
+#panel3 {
+  display: none;
+}
+
+#panel4 {
+  display: none;
+}
+
+#panel5 {
+  display: none;
+}
+
+#panel6 {
+  display: none;
+}
+
+#panel7 {
+  display: none;
+}
+
+#panel8 {
+  display: none;
+}
+
+
+
+
+.flip {
+  width: 100%;
+}
+ 
+
+body {
+  margin: 0 !important;
+}
+
+hr { 
+    
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 175px;
+    margin-right: 175px;
+    border-width: 1px;
+    color: black !important;
+}
+
+.sub {
+  color:#8E8E8E;
+  font-weight:normal;
+  font-family:alegreya;
+  font-style: italic;
+}
+
+.testo {
+  margin: 20px 30px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 100;
+  color: #82837E;
+  font-size: 14px;
+
+}
+
+video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+.rist {
+  width: 100%;
+}
+
+
+#daje {
+  width: 100%;
+}
+
+.image { 
+   position: relative; 
+   width: 100%; 
+}
+
+h2 { 
+   padding: 0px 0px 0px 10px !important;
+   position: absolute; 
+   top: 200px; 
+   width: 100%;
+   text-shadow: none; 
+   color: white;
+   font-family: "Avenir"; 
+   font-weight: 100;
+   color: white;
+   line-height: 1.3;
+}
+
+ul { 
+  margin: 20px 30px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 100;
+  color: #82837E;
+  font-size: 14px;
+}
+
+
+ 
